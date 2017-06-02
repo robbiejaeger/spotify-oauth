@@ -1,0 +1,24 @@
+{
+  "name": "spotify-oauth",
+  "version": "1.0.0",
+  "description": "Practice oauth2 in express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "oauth2",
+    "spotify"
+  ],
+  "author": "Robbie Jaeger",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
